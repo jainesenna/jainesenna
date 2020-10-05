@@ -10,6 +10,5 @@ Sinta-se à vontade para entrar em contato caso você queira entrar em contato.
 <a href="mailto:jainesantossenna191@gmail.com"><img height="30" src="https://github.com/jainesenna/jainesenna/blob/master/mail.png?raw=true"></a>
 
 
-
-![Jaine Senna's github stats](https://github-readme-stats.vercel.app/api?username=jainesenna&hide=contribs,prs&show_icons=true&hide_border=true&title_color=000)
+![Jaine Senna's github stats](https://github-readme-stats.vercel.app/api?username=jainesenna&show_icons=true&hide_border=true&title_color=000)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jainesenna&layout=compact&hide_border=true)
