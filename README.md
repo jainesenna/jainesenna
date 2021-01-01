@@ -1,6 +1,7 @@
 # Olá, eu sou Jaine <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
 
-Eu sou uma dev procurando resolver problemas do mundo real. Tenho paixão por aprender e compartilhar meu conhecimento com os outros. Falando nisso, tenho um projeto no Instagram junto com <a href="https://github.com/amorimmaria" target="_blank">Maria das Graças</a> chamado Compila Girl (<a href="https://www.instagram.com/compilagirl/" target="_blank">@compilagirl</a>), que temos como intuito compartilhar um pouco sobre tecnologia.
+Eu sou uma dev procurando resolver problemas do mundo real. 
+Tenho paixão por aprender e compartilhar meu conhecimento com os outros. Falando nisso, tenho um projeto no Instagram junto com <a href="https://github.com/amorimmaria" target="_blank">Maria das Graças</a> chamado Compila Girl (<a href="https://www.instagram.com/compilagirl/" target="_blank">@compilagirl</a>), que temos como intuito compartilhar um pouco sobre tecnologia.
 
 Sinta-se à vontade para entrar em contato caso você queira entrar em contato.
 
