@@ -6,9 +6,10 @@ Tenho paixão por aprender e compartilhar meu conhecimento com os outros. Faland
 Sinta-se à vontade para entrar em contato caso você queira entrar em contato.
 
 <p align='center'>
+<a href="https://jainesenna.netlify.app/"><img height="30" src="https://github.com/jainesenna/jainesenna/blob/master/site.png?raw=true"></a>
 <a href="https://www.linkedin.com/in/jaine-senna/"><img height="30" src="https://github.com/jainesenna/jainesenna/blob/master/linkedin.png?raw=true"></a>&nbsp;&nbsp;
 <a href="https://www.instagram.com/jaine.senna/"><img height="30" src="https://github.com/jainesenna/jainesenna/blob/master/instagram.png?raw=true"></a>&nbsp;&nbsp;
-<!-- <a href="mailto:jainesantossenna191@gmail.com"><img height="30" src="https://github.com/jainesenna/jainesenna/blob/master/mail.png?raw=true"></a> -->
+
 
 
 ![Jaine Senna's github stats](https://github-readme-stats.vercel.app/api?username=jainesenna&show_icons=true&hide_border=true&title_color=000)
