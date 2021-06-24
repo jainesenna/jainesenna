@@ -1,4 +1,4 @@
-# Olá, eu sou Jaine <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
+<h1 align="center"> Olá, eu sou Jaine <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"></h1>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jainesenna" alt="jainesenna" /> </p>
 
@@ -7,10 +7,11 @@ Tenho paixão por aprender e compartilhar meu conhecimento com os outros. Faland
 
 Sinta-se à vontade para entrar em contato caso você queira entrar em contato.
 
-<!-- <p align='center'>
-<a href="https://jainesenna.netlify.app/"><img height="32" src="https://github.com/jainesenna/jainesenna/blob/master/site.png?raw=true"></a>&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/jaine-senna/"><img height="30" src="https://github.com/jainesenna/jainesenna/blob/master/linkedin.png?raw=true"></a>&nbsp;&nbsp;
-<a href="https://www.instagram.com/jaine.senna/"><img height="30" src="https://github.com/jainesenna/jainesenna/blob/master/instagram.png?raw=true"></a>&nbsp;&nbsp; -->
+<p align="center">
+<a href="https://linkedin.com/in/jaine-senna" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="jainesenna" height="20" width="20" /></a>
+<a href="https://twitter.com/jaine_senna" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="jainesenna" height="20" width="20" /></a>
+<a href="https://instagram.com/jaine.senna" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="jainesenna" height="20" width="20" /></a>
+</p>
 
 <div>
     <img height="170" align="left" src="https://github-readme-stats.vercel.app/api?username=jainesenna&show_icons=true&theme=omni" />
