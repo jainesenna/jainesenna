@@ -9,6 +9,7 @@ Tenho paixão por aprender e compartilhar meu conhecimento com os outros. Faland
 <a target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/javascript.svg" alt="javascript" height="20" width="20" /></a>
 <a target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/typescript.svg" alt="typescript" height="20" width="20" /></a>
 <a target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/react.svg" alt="react" height="20" width="20" /></a>
+<a target="blank"><img align="center" src=/nodedotjs.svg alt="nodejs" height="20" width="20" /></a>
 <a target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/html5.svg" alt="html5" height="20" width="20" /></a>
 <a target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/css3.svg" alt="css3" height="20" width="20" /></a>
 <a target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/postgresql.svg" alt="postgresql" height="20" width="20" /></a>
