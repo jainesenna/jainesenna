@@ -25,6 +25,7 @@ Tenho paixão por aprender e compartilhar meu conhecimento com os outros. Faland
 <a target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="github" height="20" width="20" /></a>
 <a target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/docker.svg" alt="docker" height="20" width="20" /></a>
 <a target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linux.svg" alt="linux" height="20" width="20" /></a>
+<a target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@5.3.0/icons/nodered.svg" alt="nodered" height="20" width="20" /></a>
 </h3>
 Sinta-se à vontade para entrar em contato caso você queira entrar em contato.
 
