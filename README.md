@@ -13,11 +13,13 @@ Tenho paixão por aprender e compartilhar meu conhecimento com os outros. Faland
 <a target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/css3.svg" alt="css3" height="20" width="20" /></a>
 <a target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/postgresql.svg" alt="postgresql" height="20" width="20" /></a>
 <a target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/mysql.svg" alt="mysql" height="20" width="20" /></a>
+<a target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@5.3.0/icons/latex.svg" alt="latex" height="20" width="20" /></a>
 <a target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/arduino.svg" alt="arduino" height="20" width="20" /></a>
 </h3>
 
 <h3>Ferramentas: 
 <a target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/visualstudiocode.svg" alt="visualstudiocode" height="20" width="20" /></a>
+<a target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/insomnia.svg" alt="insomnia" height="20" width="20" /></a>
 <a target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/figma.svg" alt="figma" height="20" width="20" /></a>
 <a target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/git.svg" alt="git" height="20" width="20" /></a>
 <a target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="github" height="20" width="20" /></a>
