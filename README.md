@@ -40,6 +40,7 @@ Sinta-se à vontade para entrar em contato caso você queira entrar em contato.
 <a href="https://instagram.com/jaine.senna" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="jainesenna" height="20" width="20" /></a>
 </p>
 
+---
 <div>
     <img height="150" align="left" src="https://github-readme-stats.vercel.app/api?username=jainesenna&show_icons=true&theme=omni" />
     <img height="150" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jainesenna&layout=compact&show_icons=true&theme=omni" />
