@@ -44,5 +44,5 @@ Sinta-se à vontade para entrar em contato caso você queira entrar em contato.
 <div>
     <img height="150" align="left" src="https://github-readme-stats.vercel.app/api?username=jainesenna&show_icons=true&theme=omni" />
     <img height="150" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jainesenna&layout=compact&show_icons=true&theme=omni" />
-    <img height="150" align="left"  src="https://github-readme-streak-stats.herokuapp.com?user=jainesenna&theme=omni&hide_border=true" alt="jainesenna" />
+<!--     <img height="150" align="left"  src="https://github-readme-streak-stats.herokuapp.com?user=jainesenna&theme=omni&hide_border=true" alt="jainesenna" /> -->
 </div>
