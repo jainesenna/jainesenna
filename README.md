@@ -42,10 +42,9 @@ Sinta-se à vontade para entrar em contato caso você queira entrar em contato.
 <a href="https://instagram.com/jaine.senna" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="jainesenna" height="20" width="20" /></a>
 </p>
 
-<!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jainesenna&ryo-ma&theme=dracula" alt="jainesenna" /></a> </p> -->
-
+---
 <div>
     <img height="150" align="left" src="https://github-readme-stats.vercel.app/api?username=jainesenna&show_icons=true&theme=omni" />
     <img height="150" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jainesenna&layout=compact&show_icons=true&theme=omni" />
-    <img height="150" align="left"  src="https://github-readme-streak-stats.herokuapp.com?user=jainesenna&theme=omni&hide_border=true" alt="jainesenna" />
+<!--     <img height="150" align="left"  src="https://github-readme-streak-stats.herokuapp.com?user=jainesenna&theme=omni&hide_border=true" alt="jainesenna" /> -->
 </div>
