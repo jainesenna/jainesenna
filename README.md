@@ -1,51 +1,55 @@
-<h1 align="center"> Olá, eu sou Jaine <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"></h1>
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Jaine Senna
+===================================================================================================================================
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=jainesenna" alt="jainesenna" /> </p>
-Eu sou uma dev procurando resolver problemas do mundo real. 
-Tenho paixão por aprender e compartilhar meu conhecimento com os outros. Falando nisso, tenho um projeto no Instagram junto com <a href="https://github.com/amorimmaria" target="_blank">Maria das Graças</a> chamado Compila Girl (<a href="https://www.instagram.com/compilagirl/" target="_blank">@compilagirl</a>), que temos como intuito compartilhar um pouco sobre tecnologia.
+Desenvolvedora Full Stack
+-------------------------
 
-<h3>Habilidades: 
-<a target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/javascript.svg" alt="javascript" height="20" width="20" /></a>
-<a target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/typescript.svg" alt="typescript" height="20" width="20" /></a>
-<a target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/react.svg" alt="react" height="20" width="20" /></a>
-<a target="blank"><img align="center" src=/nodedotjs.svg alt="nodejs" height="20" width="20" /></a>
-<a target="blank"><img align="center" src=/nextdotjs.svg alt="nextjs" height="20" width="20" /></a>
-<a target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/eslint.svg" alt="eslint" height="20" width="20" /></a>
-<a target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/prettier.svg" alt="eslint" height="20" width="20" /></a>
-<a target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/jest.svg" alt="jest" height="20" width="20" /></a>
-<a target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/html5.svg" alt="html5" height="20" width="20" /></a>
-<a target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/css3.svg" alt="css3" height="20" width="20" /></a>
-<a target="blank"><img align="center" src=/chakraui.svg alt="chakraui" height="20" width="20" /></a>
-<a target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/postgresql.svg" alt="postgresql" height="20" width="20" /></a>
-<a target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/mysql.svg" alt="mysql" height="20" width="20" /></a>
-<a target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/firebase.svg" alt="firebase" height="20" width="20" /></a>
-<a target="blank"><img align="center" src=/python.svg alt="python" height="20" width="20" /></a>
-<a target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@5.3.0/icons/latex.svg" alt="latex" height="20" width="20" /></a>
-<a target="blank"><img align="center" src=/opencv.svg alt="opencv" height="20" width="20" /></a>
-<a target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/arduino.svg" alt="arduino" height="20" width="20" /></a>
-</h3>
+Eu sou uma dev procurando resolver problemas do mundo real. Tenho paixão por aprender e compartilhar meu conhecimento com os outros.
 
-<h3>Ferramentas: 
-<a target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/visualstudiocode.svg" alt="visualstudiocode" height="20" width="20" /></a>
-<a target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/insomnia.svg" alt="insomnia" height="20" width="20" /></a>
-<a target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/figma.svg" alt="figma" height="20" width="20" /></a>
-<a target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/git.svg" alt="git" height="20" width="20" /></a>
-<a target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="github" height="20" width="20" /></a>
-<a target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/docker.svg" alt="docker" height="20" width="20" /></a>
-<a target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linux.svg" alt="linux" height="20" width="20" /></a>
-<a target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@5.3.0/icons/nodered.svg" alt="nodered" height="20" width="20" /></a>
-</h3>
-Sinta-se à vontade para entrar em contato caso você queira entrar em contato.
+* 🌍  I'm based in Brasil
+* ✉️  You can contact me at [jainesantossenna191@gmail.com](mailto:jainesantossenna191@gmail.com)
+* 🧠  I'm learning Inteligência Artificial
 
-<p align="center">
-<a href="https://linkedin.com/in/jaine-senna" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="jainesenna" height="20" width="20" /></a>
-<a href="https://twitter.com/jaine_senna" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="jainesenna" height="20" width="20" /></a>
-<a href="https://instagram.com/jaine.senna" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="jainesenna" height="20" width="20" /></a>
+### Skills
+
+
+<p align="left">
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
+<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
+<a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a>
+<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" /></a>
+<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
+<a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>
+<a href="https://nextjs.org/docs" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored.svg" width="36" height="36" alt="NextJs" /></a>
+<a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
+<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="TailwindCSS" /></a>
+<a href="https://chakra-ui.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/chakra-colored.svg" width="36" height="36" alt="Chakra UI" /></a>
+<a href="https://mui.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/materialui-colored.svg" width="36" height="36" alt="Material UI" /></a>
+<a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a>
+<a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored.svg" width="36" height="36" alt="Express" /></a>
+<a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/fastapi-colored.svg" width="36" height="36" alt="Fast API" /></a>
+<a href="https://docs.nestjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nestjs-colored.svg" width="36" height="36" alt="NestJS" /></a>
+<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a>
+<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
+<a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a>
+<a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" width="36" height="36" alt="Firebase" /></a>
+<a href="https://flask.palletsprojects.com/en/2.0.x/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flask-colored.svg" width="36" height="36" alt="Flask" /></a>
+<a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
 </p>
 
-<!-- --- -->
-<div>
-<!--     <img height="150" align="left" src="https://github-readme-stats.vercel.app/api?username=jainesenna&show_icons=true&theme=omni" /> -->
-<!--     <img height="150" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jainesenna&layout=compact&show_icons=true&theme=omni" /> -->
-<!--     <img height="150" align="left"  src="https://github-readme-streak-stats.herokuapp.com?user=jainesenna&theme=omni&hide_border=true" alt="jainesenna" /> -->
-</div>
+
+### Socials
+
+<p align="left"> <a href="https://www.github.com/jainesenna" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/jaine.senna" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/jainesenna" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
+
+### Badges
+
+<b>My GitHub Stats</b>
+
+<a href="http://www.github.com/jainesenna"><img src="https://github-readme-stats.vercel.app/api?username=jainesenna&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="jainesenna's GitHub stats" /></a>
+
+<a href="http://www.github.com/jainesenna"><img src="https://github-readme-streak-stats.herokuapp.com/?user=jainesenna&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+
+<a href="http://www.github.com/jainesenna"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=jainesenna&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+
+<a href="https://github.com/jainesenna" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jainesenna&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
