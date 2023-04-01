@@ -46,8 +46,14 @@ Eu sou uma dev procurando resolver problemas do mundo real. Tenho paixão por ap
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/jainesenna"><img src="https://github-readme-stats.vercel.app/api?username=jainesenna&show_icons=true&hide=&count_private=true&title_color=a855f7&text_color=ffffff&icon_color=a855f7&bg_color=1c1917&hide_border=true&show_icons=true" alt="jainesenna's GitHub stats" /></a>
+<!-- <a href="http://www.github.com/jainesenna"><img src="https://github-readme-stats.vercel.app/api?username=jainesenna&show_icons=true&hide=&count_private=true&title_color=a855f7&text_color=ffffff&icon_color=a855f7&bg_color=1c1917&hide_border=true&show_icons=true" alt="jainesenna's GitHub stats" /></a>
+
+<a href="https://github.com/jainesenna"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jainesenna&langs_count=5&title_color=a855f7&text_color=ffffff&icon_color=a855f7&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a> -->
+
+![jainesenna's GitHub stats](https://github-readme-stats.vercel.app/api?username=jainesenna&show_icons=true&hide=&count_private=true&title_color=a855f7&text_color=ffffff&icon_color=a855f7&bg_color=1c1917&hide_border=true&show_icons=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jainesenna&langs_count=5&title_color=a855f7&text_color=ffffff&icon_color=a855f7&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages)
+
 
 <a href="http://www.github.com/jainesenna"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=jainesenna&bg_color=1c1917&color=ffffff&line=a855f7&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
-<a href="https://github.com/jainesenna" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jainesenna&langs_count=5&title_color=a855f7&text_color=ffffff&icon_color=a855f7&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+
