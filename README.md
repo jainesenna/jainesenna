@@ -1,110 +1,98 @@
-### Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) I'm Jaine Senna
+# 👋 Olá, eu sou a Jaine Senna!
 
-## Desenvolvedora Full Stack
-
-Eu sou uma desenvolvedora apaixonada por resolver problemas do mundo real. Tenho um grande interesse em aprender e compartilhar meu conhecimento com os outros.
-
-* 🌍  Sou Brasileira
-* ✉️  Você pode entrar em contato comigo pelo [email](mailto:jainesantossenna191@gmail.com)
-* 🧠  Atualmente, estou aprendendo Inteligência Artificial
-
-### Skills
-
-
-<p align="left">
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" />
-  </a>
-  <a href="https://www.python.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" />
-  </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" />
-  </a>
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" />
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" />
-  </a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" />
-  </a>
-  <a href="https://nextjs.org/docs" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored.svg" width="36" height="36" alt="NextJs" />
-  </a>
-  <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" />
-  </a>
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="TailwindCSS" />
-  </a>
-  <a href="https://chakra-ui.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/chakra-colored.svg" width="36" height="36" alt="Chakra UI" />
-  </a>
-  <a href="https://mui.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/materialui-colored.svg" width="36" height="36" alt="Material UI" />
-  </a>
-  <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" />
-  </a>
-  <a href="https://expressjs.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored.svg" width="36" height="36" alt="Express" />
-  </a>
-  <a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/fastapi-colored.svg" width="36" height="36" alt="Fast API" />
-  </a>
-  <a href="https://docs.nestjs.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nestjs-colored.svg" width="36" height="36" alt="NestJS" />
-  </a>
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" />
-  </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" />
-  </a>
-  <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" />
-  </a>
-  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" width="36" height="36" alt="Firebase" />
-  </a>
-  <a href="https://flask.palletsprojects.com/en/2.0.x/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flask-colored.svg" width="36" height="36" alt="Flask" />
-  </a>
-  <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" />
+<p align="center">
+  <a href="https://jaine.netlify.app/" target="_blank">
+    <img src="https://img.shields.io/badge/✨_Visite_meu_Portfólio-000000?style=for-the-badge&logo=netlify&logoColor=white&labelColor=000000" alt="Portfólio" />
   </a>
 </p>
 
+<p align="center">
+  <strong>Desenvolvedora Full Stack | React • Node.js • TypeScript • Python | Entusiasta de IA</strong>
+</p>
 
+---
 
-### Socials
+## 👩‍💻 Sobre Mim
 
-<p align="left">
-  <a href="https://www.github.com/jainesenna" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" />
+Sou uma **Desenvolvedora Full Stack** formada em Sistemas de Informação pela UFRN, com experiência prática em desenvolvimento web, inteligência artificial e visão computacional. Minha paixão é criar **soluções tecnológicas com impacto social real**, combinando criatividade com as melhores práticas de engenharia de software.
+
+**✨ Destaques da minha trajetória:**
+*   🌍 **Brasileira** de Caicó/RN
+*   🎓 **Bacharel em Sistemas de Informação** pela **UFRN**
+*   📚 Cursando **duas pós-graduações** (Arquitetura de Sistemas e Desenvolvimento & Testes)
+*   💼 **+6 anos de experiência** como Bolsista Técnica na UFRN
+*   🎤 **Palestrante** em eventos acadêmicos sobre Linux, Docker e IoT
+*   🧠 **Focada em:** Desenvolvimento Web e Inteligência Artificial
+*   🎯 **Disponível para:** Oportunidades remotas e projetos colaborativos desafiadores
+
+---
+
+## 🚀 Habilidades Técnicas
+
+### **💻 Frontend & UI/UX**
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+
+### **⚙️ Backend & Banco de Dados**
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+
+### **🧠 Inteligência Artificial & Visão Computacional**
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+
+### **🛠️ Ferramentas & DevOps**
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+---
+
+## 📊 Atividade no GitHub
+
+<div align="center">
+
+| 📈 **Estatísticas** | 📊 **Linguagens Mais Usadas** |
+|:---:|:---:|
+| <img height="165em" src="https://github-readme-stats.vercel.app/api?username=jainesenna&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=30,0d0d0d,1a1a2e&title_color=ff79c6&icon_color=bd93f9&text_color=f8f8f2" alt="GitHub Stats"/> | <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jainesenna&layout=compact&langs_count=8&theme=radical&hide_border=true&bg_color=30,1a1a2e,0d0d0d&title_color=ff79c6&text_color=f8f8f2" alt="Top Languages"/> |
+
+</div>
+
+---
+
+## 📫 Vamos Conversar?
+
+Estou sempre aberta a conversar sobre **tecnologia, novos projetos e oportunidades**.
+
+<p align="center">
+  <a href="mailto:jainesantossenna191@gmail.com">
+    <img src="https://img.shields.io/badge/✉️_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="http://www.instagram.com/jaine.senna" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" />
+  <a href="https://www.linkedin.com/in/jainesenna" target="_blank">
+    <img src="https://img.shields.io/badge/🔗_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://www.linkedin.com/in/jainesenna" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" />
+  <a href="https://www.github.com/jainesenna" target="_blank">
+    <img src="https://img.shields.io/badge/🐙_GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
 </p>
 
-### Badges
+---
 
-<b>My GitHub Stats</b>
+<p align="center">
+  <i>Obrigada pela visita! Sinta-se à vontade para explorar meus repositórios e entrar em contato. 😊</i>
+</p>
 
-<!-- <a href="http://www.github.com/jainesenna"><img src="https://github-readme-stats.vercel.app/api?username=jainesenna&show_icons=true&hide=&count_private=true&title_color=a855f7&text_color=ffffff&icon_color=a855f7&bg_color=1c1917&hide_border=true&show_icons=true" alt="jainesenna's GitHub stats" /></a>
-
-<a href="https://github.com/jainesenna"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jainesenna&langs_count=5&title_color=a855f7&text_color=ffffff&icon_color=a855f7&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a> -->
-
-![jainesenna's GitHub stats](https://github-readme-stats.vercel.app/api?username=jainesenna&show_icons=true&hide=&count_private=true&title_color=a855f7&text_color=ffffff&icon_color=a855f7&bg_color=1c1917&hide_border=true&show_icons=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jainesenna&langs_count=5&title_color=a855f7&text_color=ffffff&icon_color=a855f7&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages)
-
-
-<!-- <a href="http://www.github.com/jainesenna"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=jainesenna&bg_color=1c1917&color=ffffff&line=a855f7&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a> -->
-
-
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=jainesenna&label=Profile%20Views&color=ff79c6&style=flat" alt="Visualizações do perfil" />
+</p>
